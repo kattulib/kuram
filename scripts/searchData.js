@@ -1,4 +1,4 @@
-pages = [{"l":"index.html#","e":false,"i":"","n":"root","t":"root","d":"","k":"static","x":""},
+pages = [{"l":"index.html#","e":false,"i":"","n":"Kuram","t":"Kuram","d":"","k":"static","x":""},
 {"l":"kuram.html#","e":false,"i":"","n":"kuram","t":"kuram","d":"","k":"package","x":""},
 {"l":"kuram/Category.html#","e":false,"i":"","n":"Category","t":"Category[F[_, _]]","d":"kuram","k":"trait","x":""},
 {"l":"kuram/Category.html#andThen-fffff8ec","e":false,"i":"","n":"andThen","t":"andThen[A, B, C](f: F[A, B], g: F[B, C]): F[A, C]","d":"kuram.Category","k":"def","x":""},
